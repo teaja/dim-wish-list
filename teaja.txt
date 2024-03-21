@@ -1,7 +1,7 @@
 title:Rolls Teaja wants
 
-//notes: The quintessential PvE handcannon
+//notes:Teaja's Wishlist: The quintessential PvE handcannon
 dimwishlist:item=1216319404&perks=202670084,106909392,3038247973,3824105627
 
-//notes: Shortlist of desireable DPS GL3s
+//notes:Teaja's Wishlist: Shortlist of desireable DPS GL3s
 dimwishlist:item=2972949637&perks=1441682018,3301904089,424370782,781192741
