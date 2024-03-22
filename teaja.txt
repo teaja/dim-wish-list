@@ -59,6 +59,10 @@ dimwishlist:item=1354727549&perks=938542991,52780822,2077819806,3650930298
 dimwishlist:item=1354727549&perks=938542991,52780822,1749209109,3078487919
 dimwishlist:item=1354727549&perks=938542991,52780822,1749209109,3650930298
 
+// The Other Half - The Other Half ()
+//notes: Teaja's Wishlist: THE swordskate sword [craftable]
+dimwishlist:item=3257091167&perks=2827049491,269888150,1618208178,147913470
+
 // Apex Predator - Apex Predator ()
 //notes:Teaja's Wishlist: DPS rotation staple [craftable]
 dimwishlist:item=1851777734&perks=3525010810,3796465595,461595545,3744057135
@@ -77,7 +81,6 @@ dimwishlist:item=2738601016&perks=1441682018,3301904089,968510818,3078487919
 dimwishlist:item=2738601016&perks=1441682018,3301904089,3300816228,3078487919
 dimwishlist:item=2738601016&perks=1441682018,1771897777,968510818,3078487919
 dimwishlist:item=2738601016&perks=1441682018,1771897777,3300816228,3078487919
-
 
 // Koraxis's Distress - Koraxis's Distress ()
 //notes: Teaja's Wishlist: Shortlist of DPS HGLs [Craftable]
