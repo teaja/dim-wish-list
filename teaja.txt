@@ -1,14 +1,14 @@
 title:Teaja's Wishlist
 description: Just a bunch of stuff I want.
 
-// Fatebringer (Timelost) ()
-//notes:Teaja's Wishlist: Fatebringer, the quintessential PvE handcannon
+// Fatebringer (Timelost) - Fatebringer ()
+//notes: The quintessential PvE hand cannon.
 dimwishlist:item=1216319404&perks=202670084,106909392,3038247973,3824105627
 dimwishlist:item=1216319404&perks=1840239774,106909392,3038247973,3824105627
 
 
-// The Slammer (Adept) ()
-//notes:Teaja's Wishlist: Spinny zoom zoom Sword
+// The Slammer (Adept) - Slammer ()
+//notes: Spinny zoom zoom sword
 dimwishlist:item=1354727549&perks=3666208348,269888150,2077819806,3078487919
 dimwishlist:item=1354727549&perks=3666208348,269888150,2077819806,3650930298
 dimwishlist:item=1354727549&perks=3666208348,269888150,1749209109,3078487919
@@ -35,8 +35,8 @@ dimwishlist:item=1354727549&perks=938542991,52780822,1749209109,3078487919
 dimwishlist:item=1354727549&perks=938542991,52780822,1749209109,3650930298
 
 
-// Cataphract GL3 ()
-//notes:Teaja's Wishlist: Shortlist of DPS HGLs
+// Cataphract GL3 - Cataphract ()
+//notes: Teaja's Wishlist: Shortlist of DPS HGLs
 dimwishlist:item=2738601016&perks=3525010810,3301904089,968510818,3078487919
 dimwishlist:item=2738601016&perks=3525010810,3301904089,3300816228,3078487919
 dimwishlist:item=2738601016&perks=3525010810,1771897777,968510818,3078487919
@@ -51,8 +51,8 @@ dimwishlist:item=2738601016&perks=981914802,1771897777,968510818,3078487919
 dimwishlist:item=2738601016&perks=981914802,1771897777,3300816228,3078487919
 
 
-// Koraxis's Distress ()
-//notes:Teaja's Wishlist: Shortlist of DPS HGLs
+// Koraxis's Distress - Koraxis's Distress ()
+//notes: Teaja's Wishlist: Shortlist of DPS HGLs
 dimwishlist:item=2972949637&perks=1441682018,3301904089,968510818,3708227201
 dimwishlist:item=2972949637&perks=1441682018,1771897777,968510818,3708227201
 dimwishlist:item=2972949637&perks=3525010810,3301904089,968510818,3708227201
