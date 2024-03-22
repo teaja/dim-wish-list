@@ -52,7 +52,7 @@ dimwishlist:item=2738601016&perks=1441682018,1771897777,3300816228,3078487919
 
 
 // Koraxis's Distress - Koraxis's Distress ()
-//notes: Teaja's Wishlist: Shortlist of DPS HGLs
+//notes: Teaja's Wishlist: Shortlist of DPS HGLs [Crafted]
 dimwishlist:item=2972949637&perks=1441682018,3301904089,968510818,3708227201
 dimwishlist:item=2972949637&perks=1441682018,1771897777,968510818,3708227201
 dimwishlist:item=2972949637&perks=3525010810,3301904089,968510818,3708227201
