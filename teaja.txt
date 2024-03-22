@@ -2,13 +2,13 @@ title:Teaja's Wishlist
 description: Just a bunch of stuff I want.
 
 // Fatebringer (Timelost) - Fatebringer ()
-//notes: The quintessential PvE hand cannon.
+//notes:Teaja's Wishlist: The quintessential PvE hand cannon.
 dimwishlist:item=1216319404&perks=202670084,106909392,3038247973,3824105627
 dimwishlist:item=1216319404&perks=1840239774,106909392,3038247973,3824105627
 
 
 // The Slammer (Adept) - Slammer ()
-//notes: Spinny zoom zoom sword
+//notes:Teaja's Wishlist: Spinny zoom zoom sword
 dimwishlist:item=1354727549&perks=3666208348,269888150,2077819806,3078487919
 dimwishlist:item=1354727549&perks=3666208348,269888150,2077819806,3650930298
 dimwishlist:item=1354727549&perks=3666208348,269888150,1749209109,3078487919
