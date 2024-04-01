@@ -64,8 +64,12 @@ dimwishlist:item=1354727549&perks=938542991,52780822,1749209109,3650930298
 dimwishlist:item=3257091167&perks=2827049491,269888150,1618208178,147913470
 
 // Apex Predator - Apex Predator ()
-//notes:Teaja's Wishlist: DPS rotation staple [craftable]
+//notes: Teaja's Wishlist: DPS rotation staple [craftable]
 dimwishlist:item=1851777734&perks=3525010810,3796465595,461595545,3744057135
+
+// Crux Termination IV - Crux Termination IV ()
+//notes: Teaja's Wishlist: Ever seen a rocket with 6 in the mag? Wonderful rocket for roaming content and perfect when rockets are anti-champ.
+dimwishlist:item=1719687748&perks=3525010810,3796465595,968510818,1439600632
 
 // Cataphract GL3 - Cataphract ()
 //notes: Teaja's Wishlist: Shortlist of DPS HGLs
