@@ -15,6 +15,15 @@ dimwishlist:item=2558925366&perks=1840239774,2680121939,2682205016,2037312142
 //notes: Teaja's Wishlist: My baby: max single target damage + auto-reload.
 dimwishlist:item=4043921923&perks=981914802,3492396210,3300816228,469285294
 
+// Lingering Dread ()
+//notes: Teaja's Wishlist: The most utility you can get out of a breehloader: disorienting to slow down tough enemies, chill clip to stun champs, auto-loading so it's always ready when you need it.
+dimwishlist:item=2026087437&perks=3525010810,3032599245,3300816228,2978966579
+dimwishlist:item=2026087437&perks=3525010810,3301904089,3300816228,2978966579
+dimwishlist:item=2026087437&perks=981914802,3032599245,3300816228,2978966579
+dimwishlist:item=2026087437&perks=981914802,3301904089,3300816228,2978966579
+dimwishlist:item=2026087437&perks=1441682018,3032599245,3300816228,2978966579
+dimwishlist:item=2026087437&perks=1441682018,3301904089,3300816228,2978966579
+
 // Pardon Our Dust - Pardon Our Dust ()
 //notes: Teaja's Wishlist: Everyone should have a Disorienting Grenades breechloader in their arsenal [craftable]
 dimwishlist:item=3849810018&perks=3525010810,3032599245,3300816228,1546637391
