@@ -29,6 +29,15 @@ dimwishlist:item=2884596447&perks=839105230,1885400500,1563455254,848860060
 //notes: Teaja's Wishlist: *THE* add clear machine [Craftable]
 dimwishlist:item=613334176&perks=3525010810,2822142346,3797647183,598607952
 
+// Indebted Kindness ()
+//notes: Teaja's Wishlist: Beast of a Sidearm, does special ammo damage with enough reserves to feel like a primary.
+dimwishlist:item=3381450498&perks=3525010810,3230963543,3828510309,2173046394
+dimwishlist:item=3381450498&perks=3525010810,106909392,3828510309,2173046394
+dimwishlist:item=3381450498&perks=3525010810,2822142346,3828510309,2173046394
+dimwishlist:item=3381450498&perks=1441682018,3230963543,3828510309,2173046394
+dimwishlist:item=3381450498&perks=1441682018,106909392,3828510309,2173046394
+dimwishlist:item=3381450498&perks=1441682018,2822142346,3828510309,2173046394
+
 // Zaouli's Bane - Zaouli's Bane ()
 //notes: Teaja's Wishlist: We have Sunshot at home [Craftable]
 dimwishlist:item=431721920&perks=1840239774,3230963543,64866129,2675184851
