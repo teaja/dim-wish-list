@@ -13,7 +13,7 @@ dimwishlist:item=2558925366&perks=1840239774,2680121939,2682205016,2037312142
 
 // The Mountaintop ()
 //notes: Teaja's Wishlist: My baby: max single target damage + auto-reload.
-dimwishlist:item=4043921923&perks=981914802,3492396210,3300816228,469285294
+dimwishlist:item=568611922&perks=981914802,3492396210,3300816228,469285294
 
 // Lingering Dread ()
 //notes: Teaja's Wishlist: The most utility you can get out of a breehloader: Disorienting to slow down tough enemies, Chill Clip to stun champs, Auto-Loading so it's always ready when you need it.
