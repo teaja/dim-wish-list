@@ -51,6 +51,10 @@ dimwishlist:item=3381450498&perks=1441682018,2822142346,3828510309,2173046394
 //notes: Teaja's Wishlist: We have Sunshot at home [Craftable]
 dimwishlist:item=431721920&perks=1840239774,3230963543,64866129,2675184851
 
+// Subjunctive ()
+//notes: Teaja's Wishlist: Latest and Greatest Arc SMG: Tricorn for hella damage with Subsistence and Nano-Munitions to fire forever. [Craftable]
+dimwishlist:item=1447836603&perks=4090651448,106909392,4245865861,4290541820
+
 
 // HEAVY *******************************************************************
 // The Slammer (Adept) - Slammer ()
