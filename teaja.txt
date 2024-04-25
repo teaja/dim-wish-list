@@ -58,7 +58,7 @@ dimwishlist:item=1447836603&perks=4090651448,106909392,4245865861,4290541820
 
 // HEAVY *******************************************************************
 // The Slammer (Adept) - Slammer ()
-//notes: Teaja's Wishlist: Spinny zoom zoom sword
+//notes: Teaja's Wishlist: Spinny zoom zoom sword with built in champ stunning.
 dimwishlist:item=1354727549&perks=3666208348,269888150,2077819806,3650930298
 dimwishlist:item=1354727549&perks=3666208348,52780822,2077819806,3650930298
 dimwishlist:item=1354727549&perks=2827049491,269888150,2077819806,3650930298
