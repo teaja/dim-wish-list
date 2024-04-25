@@ -15,6 +15,11 @@ dimwishlist:item=2558925366&perks=1840239774,2680121939,2682205016,2037312142
 //notes: Teaja's Wishlist: My baby: max single target damage + auto-reload.
 dimwishlist:item=568611922&perks=981914802,3492396210,3300816228,469285294
 
+// The Mountaintop - DPS MT ()
+//notes: Teaja's Wishlist: Optimal damage with reload speed for sustained damage.
+dimwishlist:item=568611922&perks=981914802,3492396210,2010801679,4104185692
+dimwishlist:item=568611922&perks=981914802,3492396210,951095735,4104185692
+
 // Lingering Dread ()
 //notes: Teaja's Wishlist: The most utility you can get out of a breech GL: Disorienting to slow down tough enemies, Chill Clip to stun champs, Auto-Loading so it's always ready when you need it.
 dimwishlist:item=2026087437&perks=3525010810,3032599245,3300816228,2978966579
