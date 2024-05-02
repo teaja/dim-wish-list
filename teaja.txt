@@ -34,6 +34,10 @@ dimwishlist:item=2026087437&perks=1441682018,3301904089,3300816228,2978966579
 dimwishlist:item=3849810018&perks=3525010810,3032599245,3300816228,1546637391
 dimwishlist:item=3849810018&perks=3525010810,3032599245,3300816228,3523296417
 
+// Heritage - Heritage ()
+//notes: Teaja's Wishlist: King of slug swaps and major OHKOer [Craftable]
+dimwishlist:item=4248569242&perks=1840239774,791862061,461595545,3335686050
+
 // The Surpremacy - The Surpremacy ()
 //notes: Teaja's Wishlist: We have White Nail at home
 dimwishlist:item=2884596447&perks=839105230,1885400500,1563455254,848860060
